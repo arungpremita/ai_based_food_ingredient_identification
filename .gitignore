@@ -1,0 +1,7 @@
+*.pt
+runs/detect/train
+runs/detect/train2
+runs/detect/train3
+runs/detect/ingredients_detection_fixed
+ingredients_detection
+.env
