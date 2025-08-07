@@ -5,3 +5,4 @@ runs/detect/train3
 runs/detect/ingredients_detection_fixed
 ingredients_detection
 .env
+!best.pt
